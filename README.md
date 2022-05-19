@@ -2,7 +2,7 @@
 Wolfram Alpha short answers plugin for the [Grossmaul IRC bot](https://github.com/JordanMatuschka/grossmaul)
 
 ## Installation:
-1) git clone this project into your `grossmaul/plugins` directory (it will create a subdirectory)
+1) git clone this project into your `grossmaul/plugins` directory (allowing it to a subdirectory)
 2) edit `grossmaul/plugins/grossmaul-wolfram-alpha/grossmaul-wolfram-alpha.py` to add your Wolfram APP ID
 3) restart grossmaul
 
