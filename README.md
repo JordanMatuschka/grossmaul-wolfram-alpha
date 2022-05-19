@@ -15,4 +15,7 @@ This plugin adds a single command, `wolfram`. Anything after the command is pass
 
 !wolfram how many inches is it from new york city to santa fe?
 [Wolfram] about 112 million inches
+
+!wolfram how can entropy be reversed
+[Wolfram] THERE IS AS YET INSUFFICIENT DATA FOR A MEANINGFUL ANSWER
 ```
